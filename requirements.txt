@@ -1,0 +1,5 @@
+setuptools>=42.0.0
+wheel>=0.37.0
+pyusb>=1.2.1
+libusb1>=2.0.1
+pyserial>=3.5
